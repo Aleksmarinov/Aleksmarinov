@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  Qa tools that I know to work with:
+  QA tools that I know to work with:
   Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL
