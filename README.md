@@ -1,6 +1,7 @@
 ### Hi there, I'm Aleks! 👋
 
 🌱 I’m currently learning Software technologies and QA Fundamentals and Manual testing, JavaScript and C# 
+
 🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS 
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
