@@ -1,6 +1,7 @@
 ### Hi there, I'm Aleks! 👋
 
 🌱 I’m currently learning Software technologies and QA Fundamentals and Manual testing, JavaScript and C# 
+📫 How to reach me: https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%8A%D1%80-%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%BE%D0%B2-911062272/
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   QA tools that I know to work with:
-  Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL
+  Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS 
