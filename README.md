@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   QA tools that I know to work with:
-  Jira ![images](https://github.com/Aleksmarinov/Aleksmarinov/assets/122726033/f864e90c-7e29-48a2-9ad7-fa2ccd2bdd5a)
-
-  , Postman, Visual studio code, Visual Studio, GitHub, MySQL
+  Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL
