@@ -1,5 +1,6 @@
 ### Hi there, I'm Aleks! 👋
 
+🌱 I’m currently learning Software technologies and QA Fundamentals and Manual testing, JavaScript and C# 
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
