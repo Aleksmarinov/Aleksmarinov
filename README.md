@@ -1,10 +1,8 @@
-![jira-1](https://github.com/Aleksmarinov/Aleksmarinov/assets/122726033/cd0cec2f-f6f8-4f41-9c8e-5d840b0d0c30)### Hi there, I'm Aleks! 👋
+### Hi there, I'm Aleks! 👋
 
 🌱 I’m currently learning Software technologies and QA Fundamentals and Manual testing, JavaScript and C# 
 
 🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS 
-
-![png-clipart-jira-software-logo-thumbnail-tech-companies](https://github.com/Aleksmarinov/Aleksmarinov/assets/122726033/722efa2f-e29a-4e40-b4aa-b0bf7a7d58a3)
 
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
