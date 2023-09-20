@@ -12,8 +12,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="D3" alt="D3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg title="D3" alt="D3" width="40" height="40"/>&nbsp;
-  <div>
+  <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-plain.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+<div>
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
