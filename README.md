@@ -4,7 +4,7 @@
 
 🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS 
 
-<suitcase> I am currently seeking new opportunities to apply to my knowledge and seeking job in the QA Manual area.
+ 💻 I am currently seeking new opportunities to apply to my knowledge and seeking job in the QA Manual area.
 
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
