@@ -4,7 +4,7 @@
 
 💻 I am currently seeking new opportunities to apply to my knowledge and seeking job in the QA Manual area.
  
-🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS, Docker, JavaScript, C# :
+🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS, Docker, JavaScript and C# - Basics :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
