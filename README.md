@@ -3,6 +3,12 @@
 🌱 I’m currently learning Software technologies and QA Fundamentals and Manual testing, JavaScript and C# 
 
 💻 I am currently seeking new opportunities to apply to my knowledge and seeking job in the QA Manual area.
+
+📫 Connect With Me:
+
+LinkedIn: https://www.linkedin.com/in/miglena-medintsova-711911270/](https://www.linkedin.com/in/aleksandar-marinov-911062272/
+
+Email: aleksandarmarinov97@gmail.com
  
 🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS, Docker, JavaScript and C# - Basics :
 <div>
