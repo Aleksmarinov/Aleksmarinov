@@ -10,7 +10,7 @@ LinkedIn: https://www.linkedin.com/in/miglena-medintsova-711911270/](https://www
 
 Email: aleksandarmarinov97@gmail.com
 
-🔍 About Me: I am currently exploring exciting opportunities in the field of Manual QA, bringing a wealth of experience in software testing to contribute to innovative projects. My GitHub profile showcases a collection of projects and contributions that highlight my skills in test planning, execution, and defect documentation. I am passionate about ensuring software quality and am actively seeking collaborative projects where I can apply my expertise
+🔍 About Me: I am currently exploring exciting opportunities in the field of Manual QA, bringing a wealth of experience in software testing to contribute to innovative projects. My GitHub profile showcases a collection of projects and contributions that highlight my skills in test planning, execution, and defect documentation. I am passionate about ensuring software quality and am actively seeking collaborative projects where I can apply my expertise.
 
 📈 Goals: I'm on a journey to become a well-rounded QA professional, continuously expanding my knowledge and contributing to innovative projects. I believe in the power of collaboration and learning from real-world experiences.
  
