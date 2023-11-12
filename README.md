@@ -6,7 +6,7 @@
 
 📫 Connect With Me:
 
-LinkedIn: https://www.linkedin.com/in/miglena-medintsova-711911270/](https://www.linkedin.com/in/aleksandar-marinov-911062272/
+LinkedIn: https://www.linkedin.com/in/aleksandar-marinov-911062272/
 
 Email: aleksandarmarinov97@gmail.com
 
