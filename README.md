@@ -4,6 +4,8 @@
 
 💻 I am currently seeking new opportunities to apply to my knowledge and seeking job in the QA Manual area.
 
+✨Dedicated to ensuring software quality and optimizing efficiency.
+
 📫 Connect With Me:
 
 LinkedIn: https://www.linkedin.com/in/aleksandar-marinov-911062272/
