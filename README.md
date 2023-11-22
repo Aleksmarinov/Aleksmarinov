@@ -32,6 +32,8 @@ Email: aleksandarmarinov97@gmail.com
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="D3" alt="D3" width="40" height="40"/>&nbsp;
  
 <div>
+
+ https://camo.githubusercontent.com/fe2ca146ddd9a3e56692c94d84c7f81faecfb04438a4bb3845e6149246712b77/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d5065746172506574726f7639332673686f775f69636f6e733d74727565266c6f63616c653d656e267468656d653d73796e746877617665
 <!--
 **Aleksmarinov/Aleksmarinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
