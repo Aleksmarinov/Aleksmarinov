@@ -17,7 +17,7 @@ Email: aleksandarmarinov97@gmail.com
 
 📈 Goals: I'm on a journey to become a well-rounded QA professional, continuously expanding my knowledge and contributing to innovative projects. I believe in the power of collaboration and learning from real-world experiences.
  
-🌱 QA tools that I know to work with: Jira, Postman, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS, Docker, JavaScript and C# - Basics :
+🌱 QA tools that I know to work with: Jira, Postman, C# Fundamentals,Advanced,OOP and Unit Testing with C#, Visual studio code, Visual Studio, GitHub, MySQL, Trello, TestRail, HTML/ CSS, Docker, JavaScript - Basics :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
