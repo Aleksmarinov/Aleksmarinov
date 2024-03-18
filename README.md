@@ -1,7 +1,6 @@
 ### Hi there, I'm Aleks! 👋
 
-🌱 I’m currently learning Programming Fundamentals and Unit testing with C# for QA, alongside with Advanced Programming for QA.
-I have finished courses for:
+🌱 I have finished courses for:
 - QA Basics, 
 - Software Technologies, 
 - QA Fundamentals and Manual testing, 
