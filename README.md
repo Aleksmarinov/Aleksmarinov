@@ -10,7 +10,7 @@
 
 I am currently studying: 
 
-- Programming Advanced for QA with C#.
+- Programming Advanced and OOP for QA with C#.
 
 💻 I am currently seeking new opportunities to apply to my knowledge and seeking job in the QA Manual area.
 
